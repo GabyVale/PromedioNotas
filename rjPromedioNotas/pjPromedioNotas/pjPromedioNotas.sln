@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pjPromedioNotas", "pjPromedioNotas\pjPromedioNotas.csproj", "{EA6C3520-D9B0-4606-B8A3-258C75685FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6C3520-D9B0-4606-B8A3-258C75685FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6C3520-D9B0-4606-B8A3-258C75685FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6C3520-D9B0-4606-B8A3-258C75685FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6C3520-D9B0-4606-B8A3-258C75685FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF6DE2A-5E52-45AB-8007-D05064802405}
+	EndGlobalSection
+EndGlobal

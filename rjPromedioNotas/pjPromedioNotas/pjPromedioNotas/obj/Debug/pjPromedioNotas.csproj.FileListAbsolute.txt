@@ -1,0 +1,10 @@
+C:\Users\valenciag\Documents\Hitss\C#\rjPromedioNotas\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.csprojAssemblyReference.cache
+C:\Users\valenciag\Documents\Hitss\C#\rjPromedioNotas\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.Form1.resources
+C:\Users\valenciag\Documents\Hitss\C#\rjPromedioNotas\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.Properties.Resources.resources
+C:\Users\valenciag\Documents\Hitss\C#\rjPromedioNotas\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.csproj.GenerateResource.cache
+C:\Users\valenciag\Documents\Hitss\C#\rjPromedioNotas\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.csproj.CoreCompileInputs.cache
+C:\Users\valenciag\Documents\Hitss\C#\rjPromedioNotas\pjPromedioNotas\pjPromedioNotas\bin\Debug\pjPromedioNotas.exe.config
+C:\Users\valenciag\Documents\Hitss\C#\rjPromedioNotas\pjPromedioNotas\pjPromedioNotas\bin\Debug\pjPromedioNotas.exe
+C:\Users\valenciag\Documents\Hitss\C#\rjPromedioNotas\pjPromedioNotas\pjPromedioNotas\bin\Debug\pjPromedioNotas.pdb
+C:\Users\valenciag\Documents\Hitss\C#\rjPromedioNotas\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.exe
+C:\Users\valenciag\Documents\Hitss\C#\rjPromedioNotas\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.pdb
